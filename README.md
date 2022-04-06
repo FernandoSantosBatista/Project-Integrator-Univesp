@@ -12,3 +12,6 @@ with framework; HTML, CSS; Data base; Version control.
 # Access
 
 https://agendaonlinepi.herokuapp.com/login
+
+Login: admin
+Password: admin
