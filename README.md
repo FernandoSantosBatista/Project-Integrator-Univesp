@@ -5,5 +5,6 @@ The project has a static page developed with Python Flask framework, Html, CSS a
 The data registered in the agenda is sent to the database.
 The database used was SQLite, to perform simple CRUD operations (Create, Read, Update, Delete).
 The project is not a complete agenda, it just follows the menu of the Integrator Project I:
+
 Menu: Troubleshooting; requirements gathering; web development
 with framework; HTML, CSS; Data base; Version control.
